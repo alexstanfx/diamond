@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond", "diamond\Diamond.csproj", "{2CE9F73D-D4A0-4785-A3D9-CAB8B6A5D7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{6EC847B4-3727-4D65-A35A-7AB7789E1D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE9F73D-D4A0-4785-A3D9-CAB8B6A5D7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE9F73D-D4A0-4785-A3D9-CAB8B6A5D7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE9F73D-D4A0-4785-A3D9-CAB8B6A5D7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE9F73D-D4A0-4785-A3D9-CAB8B6A5D7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC847B4-3727-4D65-A35A-7AB7789E1D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC847B4-3727-4D65-A35A-7AB7789E1D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC847B4-3727-4D65-A35A-7AB7789E1D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC847B4-3727-4D65-A35A-7AB7789E1D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0F0A2F-E34E-4DA6-BB66-AED6B0B19340}
+	EndGlobalSection
+EndGlobal
